@@ -1,5 +1,5 @@
 /*
-author: ypz
+author:ypz
 暴力搜索超时，采用动态规划。
 在数组dp[j]中，两个true中间的子串表示是匹配成功的。
 */
